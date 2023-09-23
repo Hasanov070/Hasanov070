@@ -1,5 +1,6 @@
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 # 💫 About Me:
-Meet Habib, a talented and enthusiastic Junior Backend Developer specializing in Java. With a passion for crafting efficient and reliable server-side applications, Habib has embarked on a promising journey in the world of software development. This profile will provide insights into [Your Name]'s skills, experiences, and dedication to the field.
+Meet Habib, a talented and enthusiastic Junior Backend Developer specializing in Java. With a passion for crafting efficient and reliable server-side applications, Habib has embarked on a promising journey in the world of software development. This profile will provide insights into Habib's skills, experiences, and dedication to the field.
 
 
 ## 🌐 Socials:
